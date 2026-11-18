@@ -6,8 +6,9 @@ Plataforma de despacho y administración para un sindicato de taxis: **API REST 
 
 **Autor:** Miguel Ángel Contreras Contreras
 
-<!-- CAPTURA PRINCIPAL: reemplazar por una imagen del dashboard.
-![TaxiAsiste, panel web](docs/capturas/dashboard.png) -->
+<p align="center">
+  <img src="docs/capturas/dashboard.png" alt="TaxiAsiste: dashboard del panel web" width="900">
+</p>
 
 ---
 
@@ -218,13 +219,27 @@ TaxiAsiste_Mobile/
 
 ## Capturas de pantalla
 
-<!-- Reemplazar cada fila por la imagen correspondiente (por ejemplo, en docs/capturas/). -->
+Todas las capturas usan datos ficticios de demostración.
 
-| Panel web | App móvil |
-|---|---|
-| *(pendiente)* Dashboard | *(pendiente)* Inicio de sesión |
-| *(pendiente)* Mapa de despacho y solicitudes | *(pendiente)* Fila virtual |
-| *(pendiente)* Tesorería y reportes | *(pendiente)* Servicio actual con ruta |
+### Panel web
+
+**Mapa de despacho y solicitudes** (Google Maps, fila virtual y clima)
+
+<img src="docs/capturas/mapa-despacho.png" alt="Mapa de despacho y solicitudes" width="900">
+
+**Tesorería** (ingresos, egresos y resumen de caja)
+
+<img src="docs/capturas/tesoreria.png" alt="Tesorería" width="900">
+
+### App móvil del conductor
+
+<table>
+  <tr>
+    <td align="center"><img src="docs/capturas/app-login.png" alt="Inicio de sesión" width="240"><br><sub>Inicio de sesión</sub></td>
+    <td align="center"><img src="docs/capturas/app-fila-virtual.png" alt="Fila virtual, conductor fuera de la fila" width="240"><br><sub>Fila virtual: fuera de la fila</sub></td>
+    <td align="center"><img src="docs/capturas/app-fila-en-espera.png" alt="Fila virtual, conductor en espera" width="240"><br><sub>Fila virtual: en espera, posición 1</sub></td>
+  </tr>
+</table>
 
 ## Autor
 
